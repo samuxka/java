@@ -2,7 +2,6 @@ package LacosDeRepeticao;
 
 public class Exercicio {
     public static void main(String[] args) {
-        //Imprimir numeros pares de 0 a 100
         //Imprimir numeros primos 
         for(int numPrimo=2;numPrimo<=1000000;numPrimo++){
             boolean ehPrimo = true;
